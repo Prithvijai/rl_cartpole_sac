@@ -4,7 +4,8 @@
 ### SAC Tested with cartpole seed 10  (Trained seed 0)
 
 
-<video src="https://github.com/Prithvijai/rl_cartpole_sac/blob/main/videos/trained_seed0/eval-episode-0.mp4" width="600" controls></video>
+<video src="[https://github.com/Prithvijai/rl_cartpole_sac/blob/main/videos/trained_seed0/eval-episode-0.mp4](https://raw.githubusercontent.com/Prithvijai/rl_cartpole_sac/main/videos/trained_seed0/eval-episode-0.mp4
+)" width="600" controls></video>
 
 ### SAC Tested with cartpole seed 10  (Trained seed 1)
 
