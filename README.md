@@ -8,12 +8,14 @@
 ### SAC Tested with cartpole seed 10  (Trained seed 1)
 
 
-<video src="./videos/trained_seed1/eval-episode-0.mp4" width="600" controls></video>
+[./videos/trained_seed1/eval-episode-0.mp4](https://github.com/user-attachments/assets/5fec12f9-62f0-44a9-af2a-45b247d6dcf4)
+
+
 
 ### SAC Tested with cartpole seed 10  (Trained seed 2)
 
 
-<video src="./videos/trained_seed2/eval-episode-0.mp4" width="600" controls></video>
+https://github.com/user-attachments/assets/0d89369d-b72b-4652-a9b7-e4a742a0d0c7
 
 
 
